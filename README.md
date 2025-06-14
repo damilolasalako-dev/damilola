@@ -1,2 +1,29 @@
-# damilola
-loan-risk-api
+# Loan Risk Scoring API
+
+A simple Node.js API that mimics a loan risk scoring engine based on user financial inputs. Built to demonstrate core backend concepts like authentication, scoring logic, and environment variable use.
+
+---
+
+## 💡 Features
+
+- JSON-based POST endpoint for loan decisioning  
+- Mock risk scoring algorithm  
+- Token-based authentication (JWT)  
+- Lightweight, fast, and deployable via Docker or locally  
+
+---
+
+## 🛠️ Tech Stack
+
+- Node.js + Express  
+- JWT for auth  
+- dotenv for config  
+- MongoDB optional (not required)  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/damilolasalako-dev/loan-risk-api.git
